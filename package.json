@@ -39,6 +39,10 @@
     "release": "yarn build && auto shipit",
     "eject-ts": "zx scripts/eject-typescript.mjs"
   },
+  "dependencies": {
+    "dedent": "^0.7.0",
+    "global": "^4.4.0"
+  },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
@@ -51,7 +55,6 @@
     "babel-loader": "^8.1.0",
     "boxen": "^5.0.1",
     "concurrently": "^6.2.0",
-    "dedent": "^0.7.0",
     "prettier": "^2.3.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
