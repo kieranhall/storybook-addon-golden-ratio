@@ -1,6 +1,6 @@
 # Storybook Addon Golden Ratio
 
-Storybook Addon Golden Ratio can be used to overlay golden curve images optop of your components inside the preview of [Storybook](https://storybook.js.org).
+Storybook Addon Golden Ratio can be used to overlay golden curve images over your components inside the preview of [Storybook](https://storybook.js.org).
 
 ## Usage
 
